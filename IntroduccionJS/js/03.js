@@ -5,8 +5,8 @@ const producto = 'Audifonos gamer'; // forma vieja de crear variables
 
 // en CONST no se puede inicializar variable SIN valor
 
-producto = true; // reasignando el valor de la variable
-disponible = true // idem
+// producto = true; tampoco se puede reasignar valor en CONST
+
 
 
 const producto1 = 'Computadora', // crear mas de una variable
